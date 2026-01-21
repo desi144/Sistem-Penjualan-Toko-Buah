@@ -1,5 +1,9 @@
 [README.md](https://github.com/user-attachments/files/24725600/README.md)
-# Toko Sayur 22
+# Toko Sayur dan Buah Fatih
+
+**Sistem Penjualan Toko Buah dan Sayur**
+
+  Sistem Penjualan Toko Buah dan Sayur adalah aplikasi berbasis web yang digunakan untuk mengelola data produk dan transaksi penjualan secara terkomputerisasi. Sistem ini dikembangkan menggunakan teknologi open source untuk meningkatkan efisiensi proses penjualan.
 
 
 
